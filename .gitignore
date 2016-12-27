@@ -6,6 +6,10 @@ Makefile.in
 #testfiles
 test.cpp
 
+#some extra files associated with meep
+.deps
+
+
 #any compiled files
 *.dac
 
