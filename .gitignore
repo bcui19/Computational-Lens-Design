@@ -1,0 +1,12 @@
+#making sure all makefiles are ignored#
+Makefile
+Makefile.am
+Makefile.in
+
+#testfiles
+test.cpp
+
+#any compiled files
+*.dac
+
+
