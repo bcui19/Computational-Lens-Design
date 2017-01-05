@@ -7,8 +7,8 @@ Makefile.in
 test.cpp
 
 #some extra files associated with meep
-.deps
-
+.deps/*
+*.h5
 
 #any compiled files
 *.dac
